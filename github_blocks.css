@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+}
+
+div {
+  height: 300px;
+  margin: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.container-top {
+  background-color: rgb(42, 193, 235);
+}
+
+.container-mid {
+  background-color: rgb(237, 141, 239);
+}
+
+.container-bottom {
+  background-color: white;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+  margin: 20px;
+  border: 1px solid black;
+}
